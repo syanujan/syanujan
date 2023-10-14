@@ -6,7 +6,5 @@
 - E-Mail: [School] yshandrasekaram@torontomu.ca [Personal] syanujan@gmail.com
 - Phone: 647-471-7615
 
-- Some of my projects mainly compose of coding projects that utilize Python, and various libraries such as NumPy, Sckit-Learn, and more. 
-
-- My database projects include an analysis through SQL Queries eventually culminating with either a Tableau or PowerBI dashboard presentation.
+- The projects included in my GitHub repositories include Python, SQL, Tableau, and PowerBI projects. My other non-coding projects are summarized in my Resume.
   
